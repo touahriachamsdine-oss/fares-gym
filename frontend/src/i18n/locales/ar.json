@@ -1,0 +1,5 @@
+﻿{
+  "ar": {"title": "صالة فارس", "login": "تسجيل الدخول", "logout": "تسجيل الخروج"},
+  "fr": {"title": "Salle Fares", "login": "Connexion", "logout": "Déconnexion"},
+  "en": {"title": "Fares Gym", "login": "Login", "logout": "Logout"}
+}
